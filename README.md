@@ -14,13 +14,12 @@ CDN Freelancers API is a RESTful API that allows CDN - Complete Developer Networ
 
 - ASP.NET Core
 - Entity Framework Core
-- SQL Server (or your preferred RDBMS)
+- SQL Server
 
 ## Getting Started
 
 ### Prerequisites
 
-- .NET SDK
 - Visual Studio
 - SQL Server
 - Git
